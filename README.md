@@ -1,0 +1,2 @@
+# MultiLinear-Regression-Laser-Beam-Machining
+ INCONEL 718 is high temperature alloy which requires better surface finish for Aerospace applications. To optimize surface roughness different design of Experimentation techniques using Minitab Software and optimized the roughness value by using Laser Micromachining and used Multi Linear Regression Algorithm for predicting the optimized value of Surface Roughness.
